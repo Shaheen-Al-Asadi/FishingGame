@@ -1,2 +1,3 @@
-# Game-Dev
-Anything related to Game Development
+# FishingGame
+
+Practicing some concepts from OOP245
