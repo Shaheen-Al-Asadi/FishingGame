@@ -1,3 +1,3 @@
 # FishingGame
 
-Practicing some concepts from OOP245
+Practicing some concepts from OOP244
